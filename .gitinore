@@ -1,0 +1,9 @@
+# Ignore the Pipenv virtual environment folder
+.venv/
+
+# Ignore any _pycache_ folders created by Python
+_pycache_/
+
+# Ignore other common files you don't need to commit
+*.log
+*.sqlite3
